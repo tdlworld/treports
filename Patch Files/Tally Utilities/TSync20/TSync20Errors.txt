@@ -1,0 +1,4837 @@
+[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+=> Computer='DESKTOP' Time='03-17-21 14:50:27' ADO-version='10.0' 
+=> LOCATION CODE: F01-0003()  LINE# 25 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:39' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:39' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:39' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:40' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:40' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:40' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:41' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:41' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:41' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:41' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:50' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:51' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:52' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:53' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:54' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:55' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:56' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:57' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:58' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:51:59' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:00' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:01' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:02' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:03' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:05' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:05' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:06' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:07' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:08' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:09' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:09' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:10' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:11' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:16' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:16' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:17' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:18' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:19' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:20' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:21' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:22' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:23' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:24' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:25' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:26' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:27' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:28' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:29' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:30' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:31' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:31' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:31' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:31' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:32' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:33' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:34' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:35' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:36' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:37' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:37' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+Object variable or With block variable not set 
+=> Computer='DESKTOP' Time='03-17-21 14:52:37' ADO-version='10.0' 
+=> LOCATION CODE: C02-0003()  LINE# 3 
+
+
+
+Invalid unicode character.
+ 
+=> Computer='DESKTOP' Time='03-17-21 14:52:37' ADO-version='10.0' 
+=> LOCATION CODE: C02-0001()  LINE# 11 
+
+
+
+[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+=> Computer='DESKTOP' Time='06-29-21 17:42:17' ADO-version='10.0' 
+=> LOCATION CODE: F01-0003()  LINE# 25 
+
+
+
+Syntax error (missing operator) in query expression 'TSyncMst_.TName=''SO-1083716'''. 
+=> Computer='DESKTOP' Time='06-29-21 17:43:14' ADO-version='10.0' 
+=> LOCATION CODE: F01-0007A()  LINE# 129 
+
+
+
+Syntax error (missing operator) in query expression 'TSyncMst_.TName=''SO-1083716'''. 
+=> Computer='DESKTOP' Time='06-29-21 17:43:35' ADO-version='10.0' 
+=> LOCATION CODE: F01-0007A()  LINE# 129 
+
+
+
+[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+=> Computer='DESKTOP' Time='03-30-22 19:53:52' ADO-version='10.0' 
+=> LOCATION CODE: F01-0003()  LINE# 25 
+
+
+
+[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+=> Computer='DESKTOP' Time='03-30-22 19:54:16' ADO-version='10.0' 
+=> LOCATION CODE: F01-0003()  LINE# 25 
+
+
+
+[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified 
+=> Computer='DESKTOP' Time='03-30-22 19:54:50' ADO-version='10.0' 
+=> LOCATION CODE: F01-0003()  LINE# 25 
+
+
+
+Syntax error 
+=> Computer='DESKTOP' Time='03-30-22 19:55:05' ADO-version='10.0' 
+=> LOCATION CODE: F01-0023()  LINE# 69 
+
+
+
+Syntax error 
+=> Computer='DESKTOP' Time='03-30-22 19:55:41' ADO-version='10.0' 
+=> LOCATION CODE: F01-0023()  LINE# 69 
+
+
+
+Syntax error 
+=> Computer='DESKTOP' Time='03-30-22 19:58:33' ADO-version='10.0' 
+=> LOCATION CODE: F01-0023()  LINE# 69 
+
+
+
+Syntax error 
+=> Computer='DESKTOP' Time='03-30-22 20:04:25' ADO-version='10.0' 
+=> LOCATION CODE: F01-0023()  LINE# 69 
+
+
+
