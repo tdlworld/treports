@@ -9,7 +9,7 @@ Now create your own dashboards, pivots and reports easily and quickly, without u
 
 ### Installation of TReports Z 3.0
 
-Using the Setup Files, [install ERPNext](https://github.com/frappe/bench#installation) as mentioned here.
+Using the Setup Files, as mentioned here.
 
 Download TReports Z 3.0 Setup from here.
 
